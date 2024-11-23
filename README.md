@@ -1,1 +1,1 @@
-# tsekamaru.github.io
+# Project: JavaScript Quiz
