@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
     new Question("Where did sushi originate?", ["Japan", "Norway", "China", "Finland"], "Japan", 1),
     // Add more questions here
   ];
-  const quizDuration = 60; // 120 seconds (2 minutes)
+  const quizDuration = 120; // 120 seconds (2 minutes)
 
   /************  QUIZ INSTANCE  ************/
 
